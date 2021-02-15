@@ -54,7 +54,7 @@ def min_charge(k, n, m, fuel_stops):
                 # 그럼 나는 더 못가네
                 flag = False
                 break
-                
+
     if not flag:
         count = 0
 
