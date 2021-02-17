@@ -1,3 +1,4 @@
+# 시간이 오래걸려서 채점이 안 됨
 import sys
 sys.stdin = open("input.txt")
 
