@@ -48,8 +48,6 @@ for tc in range(1, T+1):
         if c == N:
             break
 
-
-
         # 맨 윗 행에 퀸을 위치시키기
         r = 0
         board[r][c]= 1
@@ -68,8 +66,6 @@ for tc in range(1, T+1):
 
         # 퀸의 위치
         for row in range(1, N):
-            # 다음 열에서도 탐색하기 위해 과거의 보드 저장
-            pre_b = board
             for col in range(N):
                 # 자리가 빈 자리이면 (0) 1로 채우고
                 if board[row][col] == 0:

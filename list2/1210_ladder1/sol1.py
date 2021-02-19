@@ -2,6 +2,8 @@ import sys
 sys.stdin = open("input.txt")
 
 T = int(input())
+# 아래서(2)부터 타고 올라가면 한번에 끝!
+# range오류를 해결하려면 좌우에 0으로 벽을 만든다
 
 # 사다리타기
 # 목적지 2에 도착하는 열번호 구하기
@@ -16,28 +18,27 @@ for tc in range(1, T+1):
         ladder.append(list(map(int, input().split())))
 
     # 행, 열 인덱스
-    row = 0
+    row = 1
     col = 0
 
     # 시작 열
     start = 0
 
     while True:
-        if ladder[row][col] == 2:
-            break
-
         # 시작열이 0이면 시작 못해 다음 열으로!
         if ladder[0][start] == 0:
             start += 1
             continue
 
+        col = start
+
         # 좌우 탐색
-        while ladder[row][col+1] or ladder[row][col-1]:
+        while True:
             # 오른쪽에 길이 있으면
-            if ladder[row][col+1]:
+            if col < 99 and ladder[row][col+1]:
                 # 그 길로 이동
                 col += 1
-                # 그 오른쪽에 길이 없으면 끝
+                # 그 오른쪽에 길이 없거나 열이 맨 끝이면 끝
                 if ladder[row][col+1] == 0 or col == 99:
                     print(row, col)
                     break
@@ -57,5 +58,7 @@ for tc in range(1, T+1):
             start += 1
             break
 
+        if ladder[row][col] == 2:
+            break
     print("#{} {}".format(tc, start))
 
