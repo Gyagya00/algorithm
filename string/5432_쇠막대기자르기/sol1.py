@@ -22,7 +22,6 @@ for tc in range(1, T+1):
     # 레이저
     laser = ['(', ')']
 
-
     # 괴상한 레이저 막대기를 숫자로 바꿔줌
     for idx in range(len(arr)):
         # 막대기와 레이저 둘 다 '('이 마지막에 나올 수 없어서
@@ -58,7 +57,7 @@ for tc in range(1, T+1):
             # 쇠막대기 개수를 구한다
             steel_h += arr[idx]
         # 레이저를 만났을 때
-        if arr[idx] == 0.5:
+        else:
             laser_cnt += arr[idx]
             # 옆에 레이저가 없을 때 막대기 개수가 바뀔때
             if arr[idx+1] != 0.5:

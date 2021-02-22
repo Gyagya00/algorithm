@@ -14,8 +14,8 @@ def brout_cnt(A, B, N, M):
             i += 1
 
         else:
-            i = i-j
-            j = -1
+            i = i-j+1
+            j = 0
 
         if j == M-1:
             cnt += 1
@@ -34,11 +34,30 @@ for tc in range(1, T+1):
     B = list(B)
     # print(A, B)
 
-    # 문자열 비교를 위해서 길이
     N = len(A)
     M = len(B)
 
+    # 인덱스
+    i, j = 0, 0
+    # 중복 되는 문자열 개수
+    cnt = 0
+    while i < N:
+        # 일치하면 계속 쭉쭉쭉 비교
+        if B[j] == A[i]:
+            j += 1
+            i += 1
+            # 끝까지 해당 문자열을 비교했을 때
+            if j == M - 1:
+                cnt += 1
+                j = 0
+        # 일치하지 않았을 때
+        else:
+            # i는 j만큼 이동하기 전으로 간 뒤(원래 자리) 거기에서 1만큼 이동
+            i = i - j + 1
+            # j는 시작부터 다시 비교
+            j = 0
+
 
     
-    print("#{} {}".format(tc, N - M*brout_cnt(A, B, N, M) + brout_cnt(A, B, N, M)))
+    print("#{} {}".format(tc, N - M * cnt + cnt))
 
