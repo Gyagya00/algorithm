@@ -27,7 +27,5 @@ for tc in range(1, T+1):
                 bit_0[j] = bit[i]
 
 
-
-
     print("#{} {}".format(tc, cnt))
 

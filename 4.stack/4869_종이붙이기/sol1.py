@@ -16,6 +16,7 @@ for tc in range(1, T+1):
         # 10, 30, 50, 70 ...
         if x % 2:
             cases.append(cases[-1]*2 -1)
+        # 20, 40, 60, 80 ...
         else:
             cases.append(cases[-1]*2 +1)
 

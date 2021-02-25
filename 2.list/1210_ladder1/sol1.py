@@ -1,7 +1,7 @@
 import sys
 sys.stdin = open("input.txt")
 
-T = int(input())
+T = 10
 # 아래서(2)부터 타고 올라가면 한번에 끝!
 # range 오류를 해결하려면 좌우에 0으로 벽을 만든다
 
@@ -13,6 +13,7 @@ T = int(input())
 # 좌로 이동중 좌에 1이 더이상 없으면 or 아래에 1이 생기면 아래로
 
 for tc in range(1, T+1):
+    t = int(input())
     ladder = []
     for _ in range(100):
         ladder.append(list(map(int, input().split())))
@@ -26,36 +27,35 @@ for tc in range(1, T+1):
     # 방향 지시자
     direction = 'down'
 
-    while row < 100:
+    while True:
         # 시작열이 0이면 시작 못해 다음 열으로!
         while ladder[0][start] == 0:
             start += 1
             # 시작열 저장
             col = start
 
+        # 좌우를 살펴보자
+        # 좌
+        while col > 0 and ladder[row][col-1] and direction != 'right':
+            # 좌로 이동
+            col -= 1
+            direction = 'left'
+        # 우
+        while col < 99 and ladder[row][col+1] and direction != 'left':
+            # 우로 이동
+            col += 1
+            direction = 'right'
 
-        # 아니면 시작해
-        else:
-            # 하나만큼 아래로 가자
-            row += 1
-            direction = 'down'
-            # 좌우를 살펴보자
-            # 좌
-            while col > 0 and ladder[row][col-1] and direction != 'right':
-                # 좌로 이동
-
-                col -= 1
-                direction = 'left'
-            # 우
-            while col < 99 and ladder[row][col+1] and direction != 'left':
-                # 우로 이동
-                col += 1
-                direction = 'right'
+        # 아래로 가자
+        # 하나만큼 아래로 가자
+        row += 1
+        direction = 'down'
 
         # 99행이면 2인지 검사
         if row == 99:
             if ladder[row][col] == 2:
                 print("#{} {}".format(tc, start))
+                break
             else:
                 row = 0
                 start += 1

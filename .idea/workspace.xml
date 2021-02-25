@@ -5,116 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34f15e61-a517-41eb-92cf-27f8aa5b6d53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2.list/1210_ladder1/sol2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.string/5432_쇠막대기자르기/sol3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.stack/1218_괄호짝짓기/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.stack/1219_길찾기/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.stack/1234_비밀번호/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.stack/2005_파스칼의삼각형/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.stack/4866_괄호검사/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.stack/4869_종이붙이기/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.stack/4871_그래프경로/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.stack/4873_반복문자지우기/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.stack/괄호검사.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.stack/팩토리얼.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.stack/피보나치.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extra/11315_오목판정/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extra/11315_오목판정/sol2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extra/1289_원재의메모리복구하기/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extra/3499_퍼펙트셔플/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extra/4047_영준이의카드카운팅/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Extra/backjoon/2578_빙고/sol2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/2817. 부분수열의 합/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.stack/1219_길찾기/sol2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.stack/1222_계산기/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.stack/1223_계산기2/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.stack/powerset_재귀.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.stack/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.stack/거듭제곱.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.stack/순열_비트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.stack/순열_스왑.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.stack/순열_재귀.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra/1961_숫자배열회전/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra/9490_풍선팡/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/1983_조교의성적매기기/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/1986_지그재그숫자/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/1989_초심자의회문검사/sol1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extra/backjoon/2578_빙고/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/backjoon/2578_빙고/sol1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/11454_baby-gin_game/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/11454_baby-gin_game/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/11454_baby-gin_game/sol2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/11457_gravity/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/11457_gravity/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/11486_여러가지_input/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/11486_여러가지_input/s1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/1206_View/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/1206_View/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/1206_View/sol2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/1208_flatten/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/1208_flatten/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/1208_flatten/sol2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/1945_간단한소인수분해/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/1945_간단한소인수분해/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/1959_두개의문자열/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/1959_두개의문자열/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/1966_숫자를정렬하자/input (1).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/1966_숫자를정렬하자/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/2071_평균값_구하기/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/2071_평균값_구하기/s1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/4828_min_max/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/4828_min_max/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/4831_전기버스/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/4831_전기버스/sol1_fail.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/4831_전기버스/sol2_fail.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/4831_전기버스/sol3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/4831_전기버스/sol4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/4831_전기버스/sol5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/4834_숫자카드/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/4834_숫자카드/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/4835_구간합/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/4835_구간합/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/5789_현주의상자바꾸기/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/5789_현주의상자바꾸기/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/6485_삼성시의버스노선/s_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/6485_삼성시의버스노선/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/6485_삼성시의버스노선/sol2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list1/list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/1209_Sum/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/1209_Sum/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/1210_ladder1/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/1210_ladder1/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/1954_달팽이숫자/input (1).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/1954_달팽이숫자/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/1979_어디에단어가들어갈수있을까/input (1).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/1979_어디에단어가들어갈수있을까/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/2001_파리퇴치/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/2001_파리퇴치/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/2001_파리퇴치/sol2_while_practice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/4835_색칠하기/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/4835_색칠하기/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/4837_부분집합의합/sample_input (1).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/4837_부분집합의합/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/4839_이진탐색/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/4839_이진탐색/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/4843_특별한정렬/sample_input (1).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/list2/4843_특별한정렬/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/1215_회문1/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/1215_회문1/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/1216_회문2/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/1216_회문2/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/1216_회문2/sol2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/1221_GNS/GNS_test_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/1221_GNS/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/3143_가장빠른문자열타이핑/sample_input (1).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/3143_가장빠른문자열타이핑/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/3143_가장빠른문자열타이핑/sol2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/4861_회문/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/4861_회문/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/4861_회문/sol2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/4861_회문/행, 열 따로 1차원.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/4864_문자열_비교/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/4864_문자열_비교/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/4864_문자열_비교/sol2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/4865_글자수/sample_input (1).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/4865_글자수/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/4865_글자수/sol2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/5356_의석이의세로로말해요/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/5356_의석이의세로로말해요/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/5432_쇠막대기자르기/sample_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/5432_쇠막대기자르기/sol1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/5432_쇠막대기자르기/sol2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/atoi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/itoa.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/고지식패턴.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/2805_농작물수확하기/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/2805_농작물수확하기/sol1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.list/1210_ladder1/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.list/1210_ladder1/sol1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.list/1210_ladder1/sol2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.list/1210_ladder1/sol2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.stack/1218_괄호짝짓기/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.stack/1218_괄호짝짓기/sol1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.stack/4869_종이붙이기/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.stack/4869_종이붙이기/sol1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.stack/4871_그래프경로/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.stack/4871_그래프경로/sol1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extra/1289_원재의메모리복구하기/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Extra/1289_원재의메모리복구하기/sol1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -138,26 +49,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="269" />
-          <entry key="txt" value="39" />
+          <entry key="py" value="295" />
+          <entry key="txt" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="39" />
-          <entry key="Python" value="269" />
+          <entry key="PLAIN_TEXT" value="43" />
+          <entry key="Python" value="295" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="74743" />
+          <entry key="py" value="83574" />
           <entry key="txt" value="656" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="656" />
-          <entry key="Python" value="74743" />
+          <entry key="Python" value="83574" />
         </counts>
       </usages-collector>
     </session>
@@ -167,20 +78,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2.list/1210_ladder1/sol1.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Extra/9490_풍선팡/sol1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="263">
+              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.list/1210_ladder1/sol2.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5.stack/quick_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="133">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding>
+                <marker date="1614211737558" expanded="true" signature="66:71" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -200,20 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/list1/1206_View/sol1.py" />
-        <option value="$PROJECT_DIR$/Extra/1204_최빈수구하기/sol1.py" />
-        <option value="$PROJECT_DIR$/string/3143_가장빠른문자열타이핑/sample_input (1).txt" />
-        <option value="$PROJECT_DIR$/study/2806_N-Queen/sol1.py" />
-        <option value="$PROJECT_DIR$/string/4861_회문/sol1.py" />
-        <option value="$PROJECT_DIR$/string/4861_회문/행, 열 따로 1차원.py" />
-        <option value="$PROJECT_DIR$/Extra/1926_간단한369게임/sol1.py" />
-        <option value="$PROJECT_DIR$/string/4861_회문/sol2.py" />
-        <option value="$PROJECT_DIR$/string/3143_가장빠른문자열타이핑/sol1.py" />
-        <option value="$PROJECT_DIR$/string/1216_회문2/sol2.py" />
-        <option value="$PROJECT_DIR$/string/4865_글자수/sol2.py" />
-        <option value="$PROJECT_DIR$/string/5356_의석이의세로로말해요/sol1.py" />
-        <option value="$PROJECT_DIR$/string/5432_쇠막대기자르기/sol1.py" />
-        <option value="$PROJECT_DIR$/string/5432_쇠막대기자르기/sol2.py" />
         <option value="$PROJECT_DIR$/string/4864_문자열_비교/sol2.py" />
         <option value="$PROJECT_DIR$/string/3143_가장빠른문자열타이핑/sol2.py" />
         <option value="$PROJECT_DIR$/backjoon/13300_방배정/input.txt" />
@@ -237,25 +137,39 @@
         <option value="$PROJECT_DIR$/Extra/11315_오목판정/sol1.py" />
         <option value="$PROJECT_DIR$/study/2005_파스칼의삼각형/sol2.py" />
         <option value="$PROJECT_DIR$/3.string/5432_쇠막대기자르기/sol3.py" />
-        <option value="$PROJECT_DIR$/4.stack/4871_그래프경로/sol1.py" />
         <option value="$PROJECT_DIR$/4.stack/4866_괄호검사/sol1.py" />
         <option value="$PROJECT_DIR$/4.stack/4873_반복문자지우기/sol1.py" />
         <option value="$PROJECT_DIR$/4.stack/1234_비밀번호/sol1.py" />
-        <option value="$PROJECT_DIR$/4.stack/1218_괄호짝짓기/sol1.py" />
         <option value="$PROJECT_DIR$/4.stack/1219_길찾기/sol1.py" />
-        <option value="$PROJECT_DIR$/4.stack/4869_종이붙이기/sol1.py" />
         <option value="$PROJECT_DIR$/Extra/backjoon/2578_빙고/sol2.py" />
         <option value="$PROJECT_DIR$/Extra/backjoon/2578_빙고/sol1.py" />
-        <option value="$PROJECT_DIR$/2.list/1210_ladder1/sol2.py" />
         <option value="$PROJECT_DIR$/Extra/11315_오목판정/sol2.py" />
         <option value="$PROJECT_DIR$/Extra/3499_퍼펙트셔플/sol1.py" />
-        <option value="$PROJECT_DIR$/Extra/1289_원재의메모리복구하기/sol1.py" />
         <option value="$PROJECT_DIR$/2.list/1210_ladder1/sol1.py" />
+        <option value="$PROJECT_DIR$/5.stack/powerset_재귀.py" />
+        <option value="$PROJECT_DIR$/4.stack/4869_종이붙이기/sol1.py" />
+        <option value="$PROJECT_DIR$/4.stack/1218_괄호짝짓기/sol1.py" />
+        <option value="$PROJECT_DIR$/5.stack/순열_재귀.py" />
+        <option value="$PROJECT_DIR$/5.stack/순열_비트.py" />
+        <option value="$PROJECT_DIR$/5.stack/순열_스왑.py" />
+        <option value="$PROJECT_DIR$/5.stack/거듭제곱.py" />
+        <option value="$PROJECT_DIR$/5.stack/1222_계산기/sol1.py" />
+        <option value="$PROJECT_DIR$/4.stack/4871_그래프경로/sol1.py" />
+        <option value="$PROJECT_DIR$/4.stack/1219_길찾기/sol2.py" />
+        <option value="$PROJECT_DIR$/Extra/1289_원재의메모리복구하기/sol1.py" />
+        <option value="$PROJECT_DIR$/2.list/1210_ladder1/sol2.py" />
+        <option value="$PROJECT_DIR$/5.stack/1223_계산기2/sol1.py" />
+        <option value="$PROJECT_DIR$/Extra/1961_숫자배열회전/sol1.py" />
+        <option value="$PROJECT_DIR$/study/1989_초심자의회문검사/sol1.py" />
+        <option value="$PROJECT_DIR$/study/1986_지그재그숫자/sol1.py" />
+        <option value="$PROJECT_DIR$/study/1983_조교의성적매기기/sol1.py" />
+        <option value="$PROJECT_DIR$/Extra/9490_풍선팡/sol1.py" />
+        <option value="$PROJECT_DIR$/5.stack/quick_sort.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="949" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
     <option name="y" value="-11" />
     <option name="width" value="983" />
     <option name="height" value="1043" />
@@ -276,31 +190,17 @@
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Extra" type="462c0819:PsiDirectoryNode" />
+              <item name="4.stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Extra" type="462c0819:PsiDirectoryNode" />
-              <item name="1289_원재의메모리복구하기" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Extra" type="462c0819:PsiDirectoryNode" />
-              <item name="1926_간단한369게임" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Extra" type="462c0819:PsiDirectoryNode" />
-              <item name="4047_영준이의카드카운팅" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Extra" type="462c0819:PsiDirectoryNode" />
-              <item name="11315_오목판정" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -317,11 +217,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\가은\algorithm\Extra\1289_원재의메모리복구하기" />
-      <recent name="C:\Users\가은\algorithm\Extra\3499_퍼펙트셔플" />
-      <recent name="C:\Users\가은\algorithm\Extra\4047_영준이의카드카운팅" />
-      <recent name="C:\Users\가은\algorithm\2.list\1210_ladder1" />
-      <recent name="C:\Users\가은\algorithm\Extra\backjoon\2578_빙고" />
+      <recent name="C:\Users\가은\algorithm\Extra\9490_풍선팡" />
+      <recent name="C:\Users\가은\algorithm\study\1983_조교의성적매기기" />
+      <recent name="C:\Users\가은\algorithm\study\1986_지그재그숫자" />
+      <recent name="C:\Users\가은\algorithm\study\1989_초심자의회문검사" />
+      <recent name="C:\Users\가은\algorithm\Extra\1961_숫자배열회전" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\가은\algorithm\4.stack" />
@@ -343,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sol1 (2)">
+  <component name="RunManager" selected="Python.sol1">
     <configuration name="sol1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -352,11 +252,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.list/1210_ladder1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra/1961_숫자배열회전" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.list/1210_ladder1/sol1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra/1961_숫자배열회전/sol1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,11 +273,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra/3499_퍼펙트셔플" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/1989_초심자의회문검사" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra/3499_퍼펙트셔플/sol1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/1989_초심자의회문검사/sol1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,11 +294,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra/1289_원재의메모리복구하기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/1986_지그재그숫자" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra/1289_원재의메모리복구하기/sol1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/1986_지그재그숫자/sol1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sol1 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/1983_조교의성적매기기" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/1983_조교의성적매기기/sol1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -415,32 +336,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra/backjoon/2578_빙고" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra/9490_풍선팡" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra/backjoon/2578_빙고/sol1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sol2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra/backjoon/2578_빙고" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra/backjoon/2578_빙고/sol2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra/9490_풍선팡/sol1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -450,19 +350,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.sol2" />
-      <item itemvalue="Python.sol1" />
       <item itemvalue="Python.sol1 (2)" />
       <item itemvalue="Python.sol1 (3)" />
       <item itemvalue="Python.sol1 (4)" />
+      <item itemvalue="Python.sol1 (5)" />
+      <item itemvalue="Python.sol1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sol1 (2)" />
+        <item itemvalue="Python.sol1" />
+        <item itemvalue="Python.sol1 (5)" />
         <item itemvalue="Python.sol1 (4)" />
         <item itemvalue="Python.sol1 (3)" />
-        <item itemvalue="Python.sol1" />
-        <item itemvalue="Python.sol2" />
+        <item itemvalue="Python.sol1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -492,11 +392,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="633" y="-7" width="655" height="695" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5013193" side_tool="true" weight="0.23786408" />
       <window_info id="Favorites" order="1" sideWeight="0.5013193" side_tool="true" weight="0.23786408" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49868074" visible="true" weight="0.47411004" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49868074" weight="0.579288" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="2" weight="0.4" />
@@ -505,28 +406,28 @@
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50080776" side_tool="true" weight="0.14234875" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.59430605" />
-      <window_info anchor="bottom" x="11" y="224" width="1258" height="233" id="Run" order="8" sideWeight="0.49919224" visible="true" weight="0.2758007" />
+      <window_info anchor="bottom" x="11" y="224" width="1258" height="233" id="Run" order="8" sideWeight="0.49919224" weight="0.20106761" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.32562277" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.48042706" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.16370107" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info id="Structure" order="0" sideWeight="0.5013193" side_tool="true" weight="0.23847377" />
-      <window_info id="Favorites" order="1" sideWeight="0.5013193" side_tool="true" weight="0.23847377" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49868074" visible="true" weight="0.22257552" />
+      <window_info id="Structure" order="0" sideWeight="0.5013193" side_tool="true" weight="0.23786408" />
+      <window_info id="Favorites" order="1" sideWeight="0.5013193" side_tool="true" weight="0.23786408" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49868074" weight="0.41100323" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32851985" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32562277" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.11921708" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50080776" side_tool="true" weight="0.357016" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.59430605" />
+      <window_info anchor="bottom" id="Cvs" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" weight="0.32562277" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.0" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50080776" side_tool="true" weight="0.14234875" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.59430605" />
+      <window_info active="true" anchor="bottom" x="11" y="224" width="1258" height="233" id="Run" order="8" sideWeight="0.49919224" visible="true" weight="0.30604982" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32562277" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.49644127" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -594,24 +495,9 @@
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/4.stack/1218_괄호짝짓기/sol1.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="106" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/4.stack/1218_괄호짝짓기/sol1.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="107" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Extra/backjoon/2578_빙고/sol2.py</url>
           <line>31</line>
           <option name="timeStamp" value="119" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2.list/1210_ladder1/sol1.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="129" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -641,136 +527,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/string/3143_가장빠른문자열타이핑/sample_input (1).txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/3143_가장빠른문자열타이핑/sol2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/4864_문자열_비교/sol2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/4864_문자열_비교/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" column="15" lean-forward="true" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backjoon/13300_방배정/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backjoon/13300_방배정/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backjoon/2578_빙고/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/4861_회문/sol2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-134">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/새 폴더/sol2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/새 폴더/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/새 폴더/Algo1_광주_1반_노가은.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/새 폴더/Algo2_광주_2반_노가은.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/새 폴더/Algo3_광주_2반_노가은.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backjoon/2578_빙고/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="38" selection-start-line="38" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/1215_회문1/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study/2805_농작물수확하기/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stack/stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.stack/stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-          <folding>
-            <marker date="1613968788782" expanded="true" signature="219:225" ph="..." />
-            <marker date="1613968788782" expanded="true" signature="324:333" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4.stack/팩토리얼.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -884,34 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.stack/1234_비밀번호/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="33" lean-forward="true" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.stack/1218_괄호짝짓기/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="20" lean-forward="true" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.stack/4871_그래프경로/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="45" column="17" lean-forward="true" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.stack/4869_종이붙이기/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Extra/backjoon/2578_빙고/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -940,13 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.stack/1219_길찾기/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Extra/4047_영준이의카드카운팅/sol2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -954,13 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.list/1210_ladder1/sol2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -978,17 +692,195 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2.list/1210_ladder1/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.stack/powerset_재귀.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <marker date="1614132727230" expanded="true" signature="96:101" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.stack/4869_종이붙이기/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.stack/1218_괄호짝짓기/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.stack/순열_재귀.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding>
+            <marker date="1614143996490" expanded="true" signature="138:143" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.stack/순열_비트.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <marker date="1614146512334" expanded="true" signature="88:93" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.stack/순열_스왑.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="47" lean-forward="true" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+          <folding>
+            <marker date="1614147261466" expanded="true" signature="37:42" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.stack/거듭제곱.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <marker date="1614148542978" expanded="true" signature="48:53" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.stack/1222_계산기/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <marker date="1614152272190" expanded="true" signature="142:161" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.stack/1234_비밀번호/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.stack/4871_그래프경로/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.stack/1219_길찾기/sol2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.stack/1223_계산기2/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.stack/1219_길찾기/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Extra/1289_원재의메모리복구하기/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="123">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2.list/1210_ladder1/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="166">
+          <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.list/1210_ladder1/sol2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="766">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.stack/1223_계산기2/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra/1961_숫자배열회전/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <marker date="1614161129747" expanded="true" signature="328:333" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/1989_초심자의회문검사/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="23" column="35" lean-forward="true" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/1986_지그재그숫자/input (1).txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/1986_지그재그숫자/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="13" column="17" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/1983_조교의성적매기기/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/1983_조교의성적매기기/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extra/9490_풍선팡/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.stack/quick_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <marker date="1614211737558" expanded="true" signature="66:71" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

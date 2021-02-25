@@ -19,6 +19,7 @@ for tc in range(1, T+1):
 
     # 여는 괄호를 저장
     stack = []
+
     for x in string:
         # 여는 괄호일 때
         for s in types:

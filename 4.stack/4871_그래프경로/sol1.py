@@ -38,6 +38,7 @@ for tc in range(1, T+1):
             visited[now] = 1
             # 연결된 노드 확인
             for j in range(V+1):
+                # 방문확인빼먹음
                 if edge_matrix[now][j]:
                     stack.append(j)
         # 목표노드에 갔다면
