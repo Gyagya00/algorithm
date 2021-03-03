@@ -1,4 +1,4 @@
-# DFS
+# BFS DFS에서 pop() -> pop(0)
 import sys
 sys.stdin = open("sample_input (1).txt")
 
@@ -26,13 +26,13 @@ for tc in range(1, T+1):
     # 방문여부 체크리스트
     visited = [0] * (V+1)
     # 방문할 수 있는 노드 리스트
-    stack = [S]
+    queue = [S]
     # 목표노드에 도달했는지
     res = 0
 
-    while stack:
+    while queue:
         # 현재 노드
-        now = stack.pop()
+        now = queue.pop(0)
         # 방문한 적없는 노드라면 (방문한 노드면 아무 조치 없이 넘어감)
         if not visited[now]:
             # 방문체크해주자
@@ -41,7 +41,7 @@ for tc in range(1, T+1):
             for j in range(V+1):
                 # 방문확인빼먹음
                 if edge_matrix[now][j]:
-                    stack.append(j)
+                    queue.append(j)
         # 목표노드에 갔다면
         if visited[G]:
             res = 1
