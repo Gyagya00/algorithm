@@ -13,6 +13,7 @@ T = int(input())
 ## 틀린이유!
 # 가로 세로로 1개 씩만 고를 수 있다
 
+
 for tc in range(1, T+1):
     # N * N 배열
     N = int(input())
@@ -20,17 +21,38 @@ for tc in range(1, T+1):
     arr = [list(map(int, input().split())) for _ in range(N)]
     # print(arr)
 
-    # 사용할 수 있는 열 인덱스
-    stack = []
+    min_total = 10 * N
 
-    # 최소합
-    min_sum = 0
-    for i in range(N):
-        min_col = 10
-        for j in range(N):
-            if arr[i][j] < min_col:
-                min_col = arr[i][j]
-        min_sum += min_col
+    for x in range(N):
+        # 방문한 행 열
+        visited = [[], []]
 
-    print("#{} {}".format(tc, min_sum))
+        if dfs([0, x], 0) < min_total:
+            min_total = dfs([0, x], 0)
+
+    def dfs(start, total = 0):
+        global visited
+
+        row, col = start
+        total += arr[row][col]
+
+        visited[0].append(row)
+        visited[1].append(col)
+
+        # 모든 경우의 수
+        for k in range(0, N):
+            # visited 확인
+            if k not in visited[1]:
+                dfs([row + 1, k], total)
+                visited[0].pop()
+                visited[1].pop()
+
+
+
+
+
+
+
+
+    print("#{} ".format(tc, ))
 

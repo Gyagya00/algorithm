@@ -68,7 +68,7 @@ for tc in range(1, T+1):
         col = now[1]
 
         # 마지막 줄 2일때
-        if row == N and miro[row][col] == 2:
+        if miro[row][col] == 2:
             res = 1
             break
 

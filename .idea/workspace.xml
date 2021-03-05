@@ -6,20 +6,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34f15e61-a517-41eb-92cf-27f8aa5b6d53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4.stack/4871_그래프경로/sol2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.stack/1224_계산기3/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.stack/4874_forth/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.stack/4875_미로/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.stack/4880_토너먼트카드게임/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.stack/4881_배열최소합/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.stack/6019_기차사이의파리/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.queue/1225_암호생성기/sol1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.queue/1225_암호생성기/sol2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6.queue/연습문제2_마이쮸.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/1220_magnetic/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.stack/4871_그래프경로/sol3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.queue/1226_미로1/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.queue/5097_회전/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.queue/5099_피자굽기/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.queue/5102_노드의거리/sol3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.queue/5105_미로의거리/sol1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.queue/5105_미로의거리/sol2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.stack/4871_그래프경로/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.stack/4871_그래프경로/sol1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.stack/1860_진기의최고급붕어빵/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.stack/4871_그래프경로/sol2.py" beforeDir="false" afterPath="$PROJECT_DIR$/4.stack/4871_그래프경로/sol2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.stack/4875_미로/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.stack/4875_미로/sol1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.stack/4881_배열최소합/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.stack/4881_배열최소합/sol1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study/2814_최장경로/sol1.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/2814_최장경로/sol1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,26 +42,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="343" />
-          <entry key="txt" value="49" />
+          <entry key="py" value="371" />
+          <entry key="txt" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="49" />
-          <entry key="Python" value="343" />
+          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="Python" value="371" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="100273" />
-          <entry key="txt" value="656" />
+          <entry key="py" value="105773" />
+          <entry key="txt" value="690" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="656" />
-          <entry key="Python" value="100273" />
+          <entry key="PLAIN_TEXT" value="690" />
+          <entry key="Python" value="105773" />
         </counts>
       </usages-collector>
     </session>
@@ -75,28 +72,51 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.stack/4871_그래프경로/sol2.py">
+        <entry file="file://$PROJECT_DIR$/6.queue/5105_미로의거리/sol1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6.queue/1225_암호생성기/sol2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="152">
+              <caret line="8" column="74" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5.stack/1224_계산기3/sol1.py">
+        <entry file="file://$PROJECT_DIR$/5.stack/4881_배열최소합/sol1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <state relative-caret-position="312">
+              <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+              <folding>
+                <marker date="1614911351286" expanded="true" signature="603:941" ph="..." />
+                <marker date="1614911351286" expanded="true" signature="941:942" ph="..." />
+                <marker date="1614911351286" expanded="true" signature="942:953" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.queue/5102_노드의거리/sol3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.queue/1226_미로1/sol1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6.queue/5105_미로의거리/sol2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-133">
+              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -116,16 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Extra/11315_오목판정/sol1.py" />
-        <option value="$PROJECT_DIR$/study/2005_파스칼의삼각형/sol2.py" />
-        <option value="$PROJECT_DIR$/3.string/5432_쇠막대기자르기/sol3.py" />
-        <option value="$PROJECT_DIR$/4.stack/4866_괄호검사/sol1.py" />
-        <option value="$PROJECT_DIR$/4.stack/4873_반복문자지우기/sol1.py" />
-        <option value="$PROJECT_DIR$/4.stack/1234_비밀번호/sol1.py" />
-        <option value="$PROJECT_DIR$/4.stack/1219_길찾기/sol1.py" />
-        <option value="$PROJECT_DIR$/Extra/backjoon/2578_빙고/sol2.py" />
-        <option value="$PROJECT_DIR$/Extra/backjoon/2578_빙고/sol1.py" />
-        <option value="$PROJECT_DIR$/Extra/11315_오목판정/sol2.py" />
         <option value="$PROJECT_DIR$/Extra/3499_퍼펙트셔플/sol1.py" />
         <option value="$PROJECT_DIR$/2.list/1210_ladder1/sol1.py" />
         <option value="$PROJECT_DIR$/5.stack/powerset_재귀.py" />
@@ -155,18 +165,28 @@
         <option value="$PROJECT_DIR$/5.stack/6019_기차사이의파리/sol1.py" />
         <option value="$PROJECT_DIR$/5.stack/4880_토너먼트카드게임/sol1.py" />
         <option value="$PROJECT_DIR$/5.stack/4874_forth/sol1.py" />
-        <option value="$PROJECT_DIR$/5.stack/4881_배열최소합/sol1.py" />
-        <option value="$PROJECT_DIR$/5.stack/4875_미로/sol1.py" />
-        <option value="$PROJECT_DIR$/study/2814_최장경로/sol1.py" />
         <option value="$PROJECT_DIR$/6.queue/연습문제2_마이쮸.py" />
         <option value="$PROJECT_DIR$/study/1220_magnetic/sol1.py" />
         <option value="$PROJECT_DIR$/4.stack/4871_그래프경로/sol1.py" />
-        <option value="$PROJECT_DIR$/4.stack/4871_그래프경로/sol2.py" />
         <option value="$PROJECT_DIR$/6.queue/sol2.py" />
         <option value="$PROJECT_DIR$/6.queue/sol1.py" />
         <option value="$PROJECT_DIR$/6.queue/1225_암호생성기/sol1.py" />
         <option value="$PROJECT_DIR$/6.queue/1225_암호생성기/sol2.py" />
         <option value="$PROJECT_DIR$/5.stack/1224_계산기3/sol1.py" />
+        <option value="$PROJECT_DIR$/study/2814_최장경로/sample_input.txt" />
+        <option value="$PROJECT_DIR$/study/2814_최장경로/sol1.py" />
+        <option value="$PROJECT_DIR$/4.stack/4871_그래프경로/sol2.py" />
+        <option value="$PROJECT_DIR$/4.stack/4871_그래프경로/sol3.py" />
+        <option value="$PROJECT_DIR$/6.queue/5097_회전/sol1.py" />
+        <option value="$PROJECT_DIR$/6.queue/5099_피자굽기/sol1.py" />
+        <option value="$PROJECT_DIR$/5.stack/4875_미로/input.txt" />
+        <option value="$PROJECT_DIR$/5.stack/4875_미로/sol1.py" />
+        <option value="$PROJECT_DIR$/6.queue/5102_노드의거리/sol3.py" />
+        <option value="$PROJECT_DIR$/6.queue/1226_미로1/sol1.py" />
+        <option value="$PROJECT_DIR$/6.queue/5105_미로의거리/sol2.py" />
+        <option value="$PROJECT_DIR$/6.queue/5105_미로의거리/input.txt" />
+        <option value="$PROJECT_DIR$/6.queue/5105_미로의거리/sol1.py" />
+        <option value="$PROJECT_DIR$/5.stack/4881_배열최소합/sol1.py" />
       </list>
     </option>
   </component>
@@ -192,13 +212,19 @@
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="4.stack" type="462c0819:PsiDirectoryNode" />
+              <item name="5.stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="4.stack" type="462c0819:PsiDirectoryNode" />
-              <item name="4871_그래프경로" type="462c0819:PsiDirectoryNode" />
+              <item name="5.stack" type="462c0819:PsiDirectoryNode" />
+              <item name="4875_미로" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="5.stack" type="462c0819:PsiDirectoryNode" />
+              <item name="4881_배열최소합" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -210,6 +236,35 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="6.queue" type="462c0819:PsiDirectoryNode" />
               <item name="1225_암호생성기" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="6.queue" type="462c0819:PsiDirectoryNode" />
+              <item name="1226_미로1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="6.queue" type="462c0819:PsiDirectoryNode" />
+              <item name="5102_노드의거리" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="6.queue" type="462c0819:PsiDirectoryNode" />
+              <item name="5105_미로의거리" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="2814_최장경로" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,18 +281,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\가은\algorithm\4.stack\4871_그래프경로" />
+      <recent name="C:\Users\가은\algorithm\6.queue\5102_노드의거리" />
       <recent name="C:\Users\가은\algorithm\6.queue\1225_암호생성기" />
       <recent name="C:\Users\가은\algorithm\1.list\4831_전기버스" />
       <recent name="C:\Users\가은\algorithm\4.stack" />
-      <recent name="C:\Users\가은\algorithm\study\1244_최대상금" />
-      <recent name="C:\Users\가은\algorithm\list1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\가은\algorithm\5.stack\1224_계산기3" />
-      <recent name="C:\Users\가은\algorithm\6.queue" />
-      <recent name="C:\Users\가은\algorithm\4.stack\4871_그래프경로" />
-      <recent name="C:\Users\가은\algorithm\study\1220_magnetic" />
-      <recent name="C:\Users\가은\algorithm\5.stack\4881_배열최소합" />
+      <recent name="C:\Users\가은\algorithm\6.queue\5105_미로의거리" />
+      <recent name="C:\Users\가은\algorithm\6.queue\1226_미로1" />
+      <recent name="C:\Users\가은\algorithm\6.queue\5099_피자굽기" />
+      <recent name="C:\Users\가은\algorithm\6.queue\5097_회전" />
+      <recent name="C:\Users\가은\algorithm\6.queue\5102_노드의거리" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -253,27 +308,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.sol1 (1)">
-    <configuration name="연습문제2_마이쮸" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.queue" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.queue/연습문제2_마이쮸.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="sol1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,11 +316,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.stack/1224_계산기3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5.stack/4881_배열최소합" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.stack/1224_계산기3/sol1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.stack/4881_배열최소합/sol1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sol1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sol1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,11 +337,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.queue/1225_암호생성기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.queue/5105_미로의거리" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.queue/1225_암호생성기/sol1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.queue/5105_미로의거리/sol1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sol1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.queue/1226_미로1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.queue/1226_미로1/sol1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,11 +379,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/1220_magnetic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/2814_최장경로" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/1220_magnetic/sol1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/2814_최장경로/sol1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -345,11 +400,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.queue/1225_암호생성기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6.queue/5105_미로의거리" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.queue/1225_암호생성기/sol2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.queue/5105_미로의거리/sol2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,19 +414,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.연습문제2_마이쮸" />
-      <item itemvalue="Python.sol1" />
-      <item itemvalue="Python.sol1 (3)" />
+      <item itemvalue="Python.sol1 (2)" />
+      <item itemvalue="Python.sol1 (4)" />
       <item itemvalue="Python.sol2" />
+      <item itemvalue="Python.sol1" />
       <item itemvalue="Python.sol1 (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.sol1 (1)" />
-        <item itemvalue="Python.sol2" />
-        <item itemvalue="Python.sol1 (3)" />
         <item itemvalue="Python.sol1" />
-        <item itemvalue="Python.연습문제2_마이쮸" />
+        <item itemvalue="Python.sol1 (2)" />
+        <item itemvalue="Python.sol2" />
+        <item itemvalue="Python.sol1 (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +461,7 @@
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5013193" side_tool="true" weight="0.23786408" />
       <window_info id="Favorites" order="1" sideWeight="0.5013193" side_tool="true" weight="0.23701298" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49868074" weight="0.36084142" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49868074" weight="0.46763754" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="2" weight="0.4" />
@@ -415,9 +470,9 @@
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.3380783" />
       <window_info anchor="bottom" id="Event Log" order="6" show_stripe_button="false" sideWeight="0.50080776" side_tool="true" weight="0.14234875" />
       <window_info anchor="bottom" id="Python Console" order="7" show_stripe_button="false" side_tool="true" weight="0.59430605" />
-      <window_info anchor="bottom" x="11" y="224" width="1258" height="233" id="Run" order="8" sideWeight="0.49919224" visible="true" weight="0.24911033" />
+      <window_info anchor="bottom" x="11" y="224" width="1258" height="233" id="Run" order="8" sideWeight="0.49919224" weight="0.34519574" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.32562277" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.24911033" />
+      <window_info active="true" anchor="bottom" id="Debug" order="10" visible="true" weight="0.2153025" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -555,24 +610,34 @@
           <option name="timeStamp" value="173" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/5.stack/4881_배열최소합/sol1.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="180" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/5.stack/4875_미로/sol1.py</url>
           <line>89</line>
           <option name="timeStamp" value="183" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/study/2814_최장경로/sol1.py</url>
-          <line>35</line>
-          <option name="timeStamp" value="185" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/study/1220_magnetic/sol1.py</url>
           <line>38</line>
           <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4.stack/4871_그래프경로/sol3.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6.queue/5099_피자굽기/sol1.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6.queue/1226_미로1/sol1.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/study/2814_최장경로/sol1.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="207" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -586,14 +651,6 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="col" language="Python" />
-        <watch expression="row" />
-        <watch expression="miro" language="Python" />
-        <watch expression="d" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -620,86 +677,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5.stack/순열_스왑.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="47" lean-forward="true" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.stack/거듭제곱.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.stack/1222_계산기/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-411">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.stack/1234_비밀번호/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.stack/1219_길찾기/sol2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="33" column="36" lean-forward="true" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.stack/1223_계산기2/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.stack/1219_길찾기/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Extra/1289_원재의메모리복구하기/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.list/1210_ladder1/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.list/1210_ladder1/sol2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="766">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Extra/1961_숫자배열회전/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-190">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study/1989_초심자의회문검사/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="23" column="35" lean-forward="true" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/study/1986_지그재그숫자/input (1).txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -843,34 +820,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5.stack/4874_forth/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.stack/4881_배열최소합/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.stack/4875_미로/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
-          <folding>
-            <marker date="1614745815443" expanded="true" signature="1130:1316" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -884,27 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/1220_magnetic/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/study/2814_최장경로/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-418">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.stack/4871_그래프경로/sol1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-end-line="89" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6.queue/1225_암호생성기/input.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -912,20 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.stack/4871_그래프경로/sol2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.queue/1225_암호생성기/sol2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -943,10 +861,150 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/study/1220_magnetic/input (1).txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/1220_magnetic/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.stack/4871_그래프경로/sol2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.stack/4871_그래프경로/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.stack/4871_그래프경로/sol3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <marker date="1614822387867" expanded="true" signature="877:1015" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/5.stack/1224_계산기3/sol1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        <state relative-caret-position="513">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.queue/5097_회전/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="45" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.queue/5099_피자굽기/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/2814_최장경로/sample_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.stack/4875_미로/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.queue/5102_노드의거리/sample_input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.queue/1225_암호생성기/sol2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.queue/5105_미로의거리/sol2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/2814_최장경로/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.queue/5105_미로의거리/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.queue/5105_미로의거리/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="74" selection-start-line="8" selection-start-column="74" selection-end-line="8" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.stack/4875_미로/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1544">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.queue/1226_미로1/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6.queue/5102_노드의거리/sol3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.stack/4881_배열최소합/sol1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+          <folding>
+            <marker date="1614911351286" expanded="true" signature="603:941" ph="..." />
+            <marker date="1614911351286" expanded="true" signature="941:942" ph="..." />
+            <marker date="1614911351286" expanded="true" signature="942:953" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

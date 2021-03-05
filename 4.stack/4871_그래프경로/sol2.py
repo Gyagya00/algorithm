@@ -51,39 +51,3 @@ for tc in range(1, T+1):
     print('#{} {}'.format(tc, res))
 
 
-
-
-    # # 인접 리스트
-    # edge_list = [[] for _ in range(V+1)]
-    # for _ in range(E):
-    #     start_node, end_node = list(map(int, input().split()))
-    #     edge_list[start_node].append(end_node)
-    #
-    # S, G = list(map(int, input().split()))
-    #
-    # # 방문여부 체크리스트
-    # visited = [False] * (V+1)
-    # # 시작위치를 스택에 담기
-    # stack = [S]
-    #
-    # # 스택에 아무것도 없으면 다 확인한 것
-    # while stack:
-    #     # pop을 통해 현재 위치를 알 수 있다.
-    #     now = stack.pop()
-    #     # 방문한 경우
-    #     if visited[now]:
-    #         pass
-    #     # 방문하지 않은 경우
-    #     else:
-    #         visited[now] = True
-    #         # 현재 노드(now)와 연결된 모든 노드를 반복
-    #         for v in edge_list[now]:
-    #             # 방문하지 않은 노드라면
-    #             if not visited[v]:
-    #                 stack.append(v)
-    #
-    # result = 1 if visited[G] else 0
-
-
-    # print("#{} {}".format(tc, result))
-

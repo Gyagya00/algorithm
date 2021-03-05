@@ -24,6 +24,7 @@ for tc in range(1, T+1):
 
     # 방문 스택
     visited_stack = [[0] * (N+1) for _ in range(1, N+1)]
+    # print(visited_stack)
 
     # 최장 경로 길이
     max_len = 1
